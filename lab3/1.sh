@@ -1,3 +1,4 @@
 #!/bin/bash
-mkdir /home/fedos/test && (echo "catalog was successfuly created" > ~/report | touch /home/fedos/test/Дата_И_Время_Создания)
-ping www.net_nikogo.ru || (date ; echo "Написано же, что никого нет! Совсем тютю?") >> ~/report
+time=$(date)
+mkdir ~/test 2> /dev/null && (echo "catalog was successfully created" >> ~/report; touch ~/test/"$time")
+ping www.net_nikogo.ru 2> /dev/null || (date; echo "nobody is here") >> ~/report

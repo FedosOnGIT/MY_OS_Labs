@@ -1,3 +1,3 @@
 #!/bin/bash
-sleep 5
-./1.sh; tail -F ~/report
+(sleep 120; ./1.sh)&
+(tail -f ~/report)

@@ -1,0 +1,26 @@
+
+Array size: 4000000
+Array size: 8000000
+Array size: 12000000
+Array size: 16000000
+Array size: 20000000
+Array size: 24000000
+Array size: 28000000
+Array size: 32000000
+Array size: 36000000
+Array size: 40000000
+Array size: 44000000
+Array size: 48000000
+Array size: 52000000
+Array size: 56000000
+Array size: 60000000
+Array size: 64000000
+Array size: 68000000
+Array size: 72000000
+Array size: 76000000
+mem1.sh
+[10233.845777] [  13459]  1000 13459  1560831  1538517 12554240    18852             0 mem1.sh
+[10233.845782] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=mem1.sh,pid=13459,uid=1000
+[10233.845789] Out of memory: Killed process 13459 (mem1.sh) total-vm:6243324kB, anon-rss:6154068kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:12260kB oom_score_adj:0
+[10234.014592] oom_reaper: reaped process 13459 (mem1.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+

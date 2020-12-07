@@ -1,38 +1,38 @@
 #!/bin/bash
-res=1
+result=1
 operation="+"
-regular='^[0-9]+$'
+regular='^[[:digit:]]+$'
 (tail -f pipe) |
-while true; 
+while true
 do
-	read LINE;
-	if [[ "$LINE" == "QUIT" ]]
-	then	
-		rm pipe
-		echo "$res"
+	read input
+	if [[ "$input" == "QUIT" ]]
+	then
+		echo "$result"
 		echo "exit"
+		rm pipe
 		killall tail
 		exit 0
 	fi
-	if ! [[ $LINE =~ $regular || "$LINE" == "+" || "$LINE" == "*" ]];
+	if ! [[ $input =~ $regular || "$input" == "+" || "$input" == "*" ]]
 	then
-		rm pipe
 		echo "error"
+		rm pipe
+		killall tail
 		exit 1
-	fi
-	if [[ $LINE =~ $regular ]]
-	then
-		if [[ $operation == "+" ]]
-		then
-			res=$(echo $res $LINE | awk '{print $1 + $2 }')
-			echo "$res"
-		else
-			res=$(echo $res $LINE | awk '{print $1 * $2 }')
-			echo "$res"
-		fi
 	else
-		operation="$LINE"
+		if [[ $input =~ $regular ]]
+		then
+			if [[ "$operation" == "+" ]]
+			then
+				result=$(echo "$result" "$input" | awk '{ print $1 + $2 }')
+			else
+				result=$(echo "$result" "$input" | awk '{ print $1 * $2 }')
+			fi
+		else
+			operation="$input"
+		fi
 	fi
 done
-
-
+ 
+		

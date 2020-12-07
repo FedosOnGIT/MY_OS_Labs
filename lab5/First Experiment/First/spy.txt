@@ -1,0 +1,241 @@
+
+Date is Вс дек  6 21:05:50 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  5177532 free,  1906604 used,   951540 buff/cache
+КиБ Swap:  1668568 total,   199508 free,  1469060 used.  5657784 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0  326688 315684   2900 S   0,0  3,9   0:04.51 mem.sh
+First five processes are :
+ 1703 fedos     20   0 4442572 251472  37720 S  12,5  3,1   4:55.38 gnome-shell
+10800 fedos     20   0   45496   4092   3436 R  12,5  0,1   0:00.02 top
+ 6258 fedos     20   0 4920720  66224  26188 S   6,2  0,8   0:17.55 chrome
+ 9423 fedos     20   0 9359132 272536 101508 S   6,2  3,4   3:21.44 chrome
+    1 root      20   0  226164   5572   3848 S   0,0  0,1   0:17.46 systemd
+
+Date is Вс дек  6 21:05:55 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  4860832 free,  2221116 used,   953728 buff/cache
+КиБ Swap:  1668568 total,   199508 free,  1469060 used.  5345232 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0  639132 628196   2900 S   0,0  7,8   0:09.24 mem.sh
+First five processes are :
+ 5919 fedos     20   0  670292  54616  36288 S   5,9  0,7   1:30.30 chrome
+ 5940 fedos     20   0 3900664 117696  49372 S   5,9  1,5   4:50.87 telegram-d+
+ 9423 fedos     20   0 9359132 272792 101484 S   5,9  3,4   3:21.61 chrome
+10812 fedos     20   0   45496   4060   3400 R   5,9  0,1   0:00.03 top
+    1 root      20   0  226164   5572   3848 S   0,0  0,1   0:17.46 systemd
+
+Date is Вс дек  6 21:06:01 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  4542856 free,  2539156 used,   953664 buff/cache
+КиБ Swap:  1668568 total,   199508 free,  1469060 used.  5023908 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0  951708 940704   2900 S   0,0 11,7   0:13.97 mem.sh
+First five processes are :
+ 5919 fedos     20   0  670292  54616  36288 S  11,8  0,7   1:30.37 chrome
+ 9423 fedos     20   0 9362192 278980 101852 S   5,9  3,5   3:21.88 chrome
+10826 fedos     20   0   45496   4156   3500 R   5,9  0,1   0:00.02 top
+    1 root      20   0  226164   5572   3848 S   0,0  0,1   0:17.47 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:06:07 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  4234220 free,  2847680 used,   953776 buff/cache
+КиБ Swap:  1668568 total,   199508 free,  1469060 used.  4716636 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 1264152 1,195g   2900 S   0,0 15,6   0:19.68 mem.sh
+First five processes are :
+10838 fedos     20   0   45496   4136   3480 R  18,8  0,1   0:00.03 top
+ 9423 fedos     20   0 9359644 273852 101852 S  12,5  3,4   3:22.09 chrome
+   11 root      20   0       0      0      0 I   6,2  0,0   0:04.95 rcu_sched
+    1 root      20   0  226164   5572   3848 S   0,0  0,1   0:17.47 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:06:14 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  3922456 free,  3159604 used,   953616 buff/cache
+КиБ Swap:  1668568 total,   199508 free,  1469060 used.  4404492 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 1576728 1,493g   2900 S   0,0 19,5   0:25.78 mem.sh
+First five processes are :
+10851 fedos     20   0   45496   4164   3508 R  12,5  0,1   0:00.03 top
+ 3860 fedos     20   0 1315732  20624  12056 S   6,2  0,3   0:13.66 nautilus
+ 9423 fedos     20   0 9359644 273780 101852 S   6,2  3,4   3:22.30 chrome
+    1 root      20   0  226164   5572   3848 S   0,0  0,1   0:17.47 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:06:21 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  3606952 free,  3471828 used,   956896 buff/cache
+КиБ Swap:  1668568 total,   199508 free,  1469060 used.  4088608 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 1889172 1,791g   2900 S   0,0 23,4   0:31.91 mem.sh
+First five processes are :
+ 9423 fedos     20   0 9362716 274068 101836 S  12,5  3,4   3:22.53 chrome
+10865 fedos     20   0   45496   4088   3432 R  12,5  0,1   0:00.03 top
+ 5940 fedos     20   0 3900664 117696  49372 S   6,2  1,5   4:50.98 telegram-d+
+    1 root      20   0  226164   5572   3848 S   0,0  0,1   0:17.47 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:06:28 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  3295520 free,  3786336 used,   953820 buff/cache
+КиБ Swap:  1668568 total,   199508 free,  1469060 used.  3776944 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 2201748 2,089g   2900 S   0,0 27,3   0:38.04 mem.sh
+First five processes are :
+10877 fedos     20   0   45496   3972   3316 R  12,5  0,0   0:00.02 top
+ 9423 fedos     20   0 9359644 274400 101828 S   6,2  3,4   3:22.75 chrome
+    1 root      20   0  226164   5572   3848 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+
+Date is Вс дек  6 21:06:35 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  2982416 free,  4098688 used,   954572 buff/cache
+КиБ Swap:  1668568 total,   200532 free,  1468036 used.  3464916 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 2514192 2,387g   2900 S   0,0 31,2   0:44.18 mem.sh
+First five processes are :
+10895 fedos     20   0   45496   4096   3436 R  17,6  0,1   0:00.04 top
+ 9423 fedos     20   0 9359644 274020 101828 S   5,9  3,4   3:22.94 chrome
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+
+Date is Вс дек  6 21:06:42 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  2666236 free,  4412904 used,   956536 buff/cache
+КиБ Swap:  1668568 total,   201300 free,  1467268 used.  3150708 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 2826768 2,685g   2900 S   0,0 35,0   0:50.40 mem.sh
+First five processes are :
+ 9423 fedos     20   0 9359644 274224 101828 S  12,5  3,4   3:23.17 chrome
+ 5883 fedos     20   0 1080024 182896  85024 S   6,2  2,3   1:37.86 chrome
+10915 fedos     20   0   45496   4056   3400 R   6,2  0,1   0:00.02 top
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:06:49 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  2351724 free,  4727288 used,   956664 buff/cache
+КиБ Swap:  1668568 total,   201300 free,  1467268 used.  2835944 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 3139212 2,983g   2900 S   0,0 38,9   0:56.58 mem.sh
+First five processes are :
+ 9423 fedos     20   0 9359644 274792 101804 S  12,5  3,4   3:23.40 chrome
+10932 fedos     20   0   45496   3988   3332 R  12,5  0,0   0:00.03 top
+ 5940 fedos     20   0 3900664 117696  49372 S   6,2  1,5   4:51.10 telegram-d+
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:06:56 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  2039520 free,  5039392 used,   956764 buff/cache
+КиБ Swap:  1668568 total,   201300 free,  1467268 used.  2523548 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 3451788 3,281g   2900 S   0,0 42,8   1:02.69 mem.sh
+First five processes are :
+ 5940 fedos     20   0 3900664 117696  49372 S   6,2  1,5   4:51.13 telegram-d+
+ 9423 fedos     20   0 9359644 275080 101804 S   6,2  3,4   3:23.60 chrome
+10945 fedos     20   0   45496   4168   3508 R   6,2  0,1   0:00.02 top
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:07:03 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  1726032 free,  5352896 used,   956748 buff/cache
+КиБ Swap:  1668568 total,   201300 free,  1467268 used.  2210084 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 3764232 3,579g   2900 S   0,0 46,7   1:08.81 mem.sh
+First five processes are :
+10957 fedos     20   0   45496   4140   3480 R  20,0  0,1   0:00.03 top
+ 9423 fedos     20   0 9359644 274588 101804 S  13,3  3,4   3:23.83 chrome
+ 5940 fedos     20   0 3900664 117696  49372 S   6,7  1,5   4:51.16 telegram-d+
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:07:10 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  1412488 free,  5666260 used,   956928 buff/cache
+КиБ Swap:  1668568 total,   201812 free,  1466756 used.  1896848 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 4076808 3,877g   2900 S   0,0 50,6   1:14.95 mem.sh
+First five processes are :
+10972 fedos     20   0   45496   4056   3400 R  18,8  0,1   0:00.03 top
+ 9423 fedos     20   0 9359644 274768 101804 S  12,5  3,4   3:24.05 chrome
+  894 avahi     20   0   47268    236     68 S   6,2  0,0   0:00.30 avahi-daem+
+ 5883 fedos     20   0 1080024 156700  85084 S   6,2  2,0   1:37.90 chrome
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+
+Date is Вс дек  6 21:07:17 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,  1125636 free,  5953232 used,   956808 buff/cache
+КиБ Swap:  1668568 total,   201812 free,  1466756 used.  1610560 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 4389252 4,175g   2900 S   0,0 54,5   1:21.09 mem.sh
+First five processes are :
+10984 fedos     20   0   45496   4160   3500 R  11,1  0,1   0:00.04 top
+ 5919 fedos     20   0  670292  55160  36464 S   5,6  0,7   1:31.22 chrome
+ 5940 fedos     20   0 3900664 117696  49372 S   5,6  1,5   4:51.22 telegram-d+
+ 9423 fedos     20   0 9359644 274900 102044 S   5,6  3,4   3:24.25 chrome
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+
+Date is Вс дек  6 21:07:24 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,   814872 free,  6263876 used,   956928 buff/cache
+КиБ Swap:  1668568 total,   201812 free,  1466756 used.  1299708 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 4701828 4,474g   2900 S   0,0 58,4   1:27.26 mem.sh
+First five processes are :
+ 9423 fedos     20   0 9359644 274376 102044 S  12,5  3,4   3:24.48 chrome
+10998 fedos     20   0   45496   3972   3316 R  12,5  0,0   0:00.02 top
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+
+Date is Вс дек  6 21:07:31 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,   512820 free,  6578408 used,   944448 buff/cache
+КиБ Swap:  1668568 total,   201812 free,  1466756 used.   998628 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 5014272 4,772g   2900 S   0,0 62,3   1:33.44 mem.sh
+First five processes are :
+ 9423 fedos     20   0 9367328 262780  92004 S  17,6  3,3   3:25.06 chrome
+11017 fedos     20   0   45496   4084   3428 R  17,6  0,1   0:00.04 top
+ 5940 fedos     20   0 3900664 117696  49372 S   5,9  1,5   4:51.47 telegram-d+
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:07:39 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,   198600 free,  6890328 used,   946748 buff/cache
+КиБ Swap:  1668568 total,   202068 free,  1466500 used.   683304 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 5326848 5,070g   2900 S   0,0 66,2   1:39.79 mem.sh
+First five processes are :
+ 5940 fedos     20   0 3900664 117696  49372 S  12,5  1,5   4:51.81 telegram-d+
+11029 fedos     20   0   45496   4096   3436 R  12,5  0,1   0:00.03 top
+ 1540 fedos     20   0 2459960  36920  21336 S   6,2  0,5   5:25.84 Xorg
+ 5919 fedos     20   0  673428  55176  36480 S   6,2  0,7   1:31.47 chrome
+ 9373 root      20   0       0      0      0 I   6,2  0,0   0:00.35 kworker/2:+
+
+Date is Вс дек  6 21:07:46 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,   156960 free,  7199340 used,   679376 buff/cache
+КиБ Swap:  1668568 total,   201812 free,  1466756 used.   379460 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 5639292 5,368g   2900 S   0,0 70,0   1:46.04 mem.sh
+First five processes are :
+11041 fedos     20   0   45496   4108   3448 R  11,1  0,1   0:00.04 top
+ 5919 fedos     20   0  670288  55156  36460 S   5,6  0,7   1:31.56 chrome
+ 9423 fedos     20   0 9367328 263432  91948 S   5,6  3,3   3:25.53 chrome
+    1 root      20   0  226164   5648   3912 S   0,0  0,1   0:17.48 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:07:53 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,   146896 free,  7503016 used,   385764 buff/cache
+КиБ Swap:  1668568 total,   201544 free,  1467024 used.    92160 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 5951868 5,665g   2112 S   0,0 73,9   1:52.29 mem.sh
+First five processes are :
+11053 fedos     20   0   45496   3924   3264 R  11,8  0,0   0:00.04 top
+    1 root      20   0  226164   3044   1308 S   5,9  0,0   0:17.49 systemd
+ 5919 fedos     20   0  670288  35224  16528 S   5,9  0,4   1:31.63 chrome
+ 9423 fedos     20   0 9367328 230068  58340 S   5,9  2,9   3:25.74 chrome
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+
+Date is Вс дек  6 21:08:37 MSK 2020
+First two lines are:
+КиБ Mem :  8035676 total,   140060 free,  7653420 used,   242196 buff/cache
+КиБ Swap:  1668568 total,        0 free,  1668568 used.    45840 avail Mem 
+mem.sh parametrs are : 10788 fedos     20   0 6264312 5,959g    180 S   0,0 77,8   1:59.52 mem.sh
+First five processes are :
+ 5940 fedos     20   0 3900664  58240   5092 R 168,8  0,7   5:03.66 telegram-d+
+  130 root      20   0       0      0      0 S  31,2  0,0  11:50.06 kswapd0
+ 5883 fedos     20   0 1067452  63460   1220 S   6,2  0,8   1:38.63 chrome
+ 5919 fedos     20   0  670288  15500   2112 S   6,2  0,2   1:32.26 chrome
+ 6258 fedos     20   0 4920720  40360   2964 S   6,2  0,5   0:17.98 chrome
+

@@ -1,2 +1,2 @@
 #!/bin/bash
-5 * * * 0 ./1.sh
+5 * * * 6 ~/OS\ Labs/lab3/1.sh

@@ -1,4 +1,6 @@
 #!/bin/bash
+rm search.log
+touch search.log
 tries=$1
 size=$2
 index=0
@@ -8,4 +10,3 @@ do
 	index=$(($index + 1))
 	sleep 1
 done
-echo "hey"

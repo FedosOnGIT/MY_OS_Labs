@@ -1,10 +1,15 @@
 #!/bin/bash
-if [[ $# -ne 1 ]]
+read input
+if [[ -d "$input" ]]
 then
-	echo "wrong number of arguments"
+	echo "It is a directory! Not a file!"
 	exit 1
 fi
-input=$1
+if [[ "$input" == "/" || "$input" == "null" ]]
+then
+	echo "Unaccaptable name to file!"
+	exit 1
+fi
 trash=~/trash
 if ! [[ -d "$trash" ]]
 then 

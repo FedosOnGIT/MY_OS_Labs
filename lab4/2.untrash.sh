@@ -1,10 +1,5 @@
 #!/bin/bash
-if [[ $# -ne 1 ]]
-then
-	echo "Wrong number of arguments"
-	exit 1
-fi
-input=$1
+read input
 trash=$(cat ~/trash.log)
 find=true
 echo "" > ~/trash.log

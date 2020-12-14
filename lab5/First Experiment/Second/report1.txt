@@ -1,0 +1,6 @@
+Two last notes it dmesg ...
+[ 4349.506638] Out of memory: Killed process 9163 (mem1.sh) total-vm:3373644kB, anon-rss:3356300kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:6644kB oom_score_adj:0
+[ 4349.566688] oom_reaper: reaped process 9163 (mem1.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+
+Last note it report1.log
+Array size: 43000000

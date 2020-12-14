@@ -1,0 +1,6 @@
+Last two notes in dmesg ...
+[12802.227355] Out of memory: Killed process 27295 (mem.sh) total-vm:6519072kB, anon-rss:6485116kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:12800kB oom_score_adj:0
+[12802.514120] oom_reaper: reaped process 27295 (mem.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+
+Last note it report.log
+Array size: 83000000

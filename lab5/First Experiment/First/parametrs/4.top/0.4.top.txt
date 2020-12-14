@@ -1,0 +1,582 @@
+
+Вс дек 13 23:25:03 MSK 2020
+First five processes are :
+ 1671 fedos     20   0 4454928 276624  59044 S  43,8  3,4  16:59.64 gnome-shell
+ 1508 fedos     20   0 2315292  62928  46500 S  12,5  0,8  17:08.94 Xorg
+ 2607 fedos     20   0 4066592 216304  63948 S  12,5  2,7  17:44.81 telegram-deskto
+11605 fedos     20   0 9427816 264620  78824 S   6,2  3,3  10:58.19 chrome
+24837 root      20   0       0      0      0 I   6,2  0,0   0:04.63 kworker/u16:2-e
+Вс дек 13 23:25:05 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4066592 216304  63948 S  25,0  2,7  17:45.01 telegram-deskto
+ 1508 fedos     20   0 2315284  63036  46608 S  12,5  0,8  17:09.05 Xorg
+ 1697 fedos      9 -11 2646980   9368   7628 S  12,5  0,1   3:14.00 pulseaudio
+11605 fedos     20   0 9427816 265008  78832 S  12,5  3,3  10:58.28 chrome
+27318 fedos     20   0   45496   3940   3288 R  12,5  0,0   0:00.03 top
+Вс дек 13 23:25:07 MSK 2020
+First five processes are :
+ 1671 fedos     20   0 4454920 276680  59068 S  31,2  3,4  16:59.77 gnome-shell
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.55 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_par_gp
+Вс дек 13 23:25:09 MSK 2020
+First five processes are :
+27355 fedos     20   0   45496   4120   3468 R  12,5  0,1   0:00.03 top
+ 1508 fedos     20   0 2315348  63060  46632 S   6,2  0,8  17:09.10 Xorg
+ 1671 fedos     20   0 4454912 276716  59060 S   6,2  3,4  16:59.78 gnome-shell
+ 1697 fedos      9 -11 2646980   9368   7628 S   6,2  0,1   3:14.08 pulseaudio
+11605 fedos     20   0 9427816 264788  78840 S   6,2  3,3  10:58.42 chrome
+Вс дек 13 23:25:11 MSK 2020
+First five processes are :
+27367 fedos     20   0   45496   4008   3356 R  12,5  0,0   0:00.03 top
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.55 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_par_gp
+Вс дек 13 23:25:13 MSK 2020
+First five processes are :
+ 2350 fedos     20   0  561780  47056  26176 S  11,1  0,6   1:36.85 chrome
+11605 fedos     20   0 9420264 264944  78852 S  11,1  3,3  10:58.59 chrome
+27385 fedos     20   0   45496   3952   3300 R  11,1  0,0   0:00.04 top
+   24 root      20   0       0      0      0 S   5,6  0,0   0:00.46 ksoftirqd/2
+  954 avahi     20   0   47272   1736   1532 S   5,6  0,0   0:00.40 avahi-daemon
+Вс дек 13 23:25:15 MSK 2020
+First five processes are :
+ 1697 fedos      9 -11 2646980   9368   7628 S   6,2  0,1   3:14.19 pulseaudio
+ 2311 fedos     20   0 1130984 169084  87168 S   6,2  2,1   3:44.75 chrome
+ 2607 fedos     20   0 4066592 216304  63948 S   6,2  2,7  17:45.15 telegram-deskto
+11605 fedos     20   0 9427668 259172  78856 S   6,2  3,2  10:58.83 chrome
+27401 fedos     20   0   45496   3980   3328 R   6,2  0,0   0:00.02 top
+Вс дек 13 23:25:17 MSK 2020
+First five processes are :
+27416 fedos     20   0   45496   4092   3436 R  17,6  0,1   0:00.04 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:14.23 pulseaudio
+11605 fedos     20   0 9427668 259308  78860 S   5,9  3,2  10:58.88 chrome
+22191 root      20   0       0      0      0 I   5,9  0,0   0:00.40 kworker/4:1-eve
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+Вс дек 13 23:25:19 MSK 2020
+First five processes are :
+27429 fedos     20   0   45496   4008   3356 R  11,8  0,0   0:00.03 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:14.26 pulseaudio
+11605 fedos     20   0 9427668 259576  78864 S   5,9  3,2  10:58.95 chrome
+26220 fedos     20   0  655240  81732  52844 S   5,9  1,0   0:21.74 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+Вс дек 13 23:25:21 MSK 2020
+First five processes are :
+27445 fedos     20   0   45496   4088   3436 R  11,1  0,1   0:00.04 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,6  0,1   3:14.29 pulseaudio
+11605 fedos     20   0 9427668 259068  78868 S   5,6  3,2  10:59.02 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:25:23 MSK 2020
+First five processes are :
+27286 fedos     20   0   45632   4244   3500 S  12,5  0,1   0:00.40 top
+27456 fedos     20   0   45496   4120   3468 R  12,5  0,1   0:00.03 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   6,2  0,1   3:14.33 pulseaudio
+11605 fedos     20   0 9427668 258576  78872 S   6,2  3,2  10:59.09 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+Вс дек 13 23:25:25 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4066592 216304  63948 S  16,7  2,7  17:45.24 telegram-deskto
+27467 fedos     20   0   45496   4040   3384 R  16,7  0,1   0:00.05 top
+ 1508 fedos     20   0 2315284  62692  46264 S   5,6  0,8  17:09.14 Xorg
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,6  0,1   3:14.37 pulseaudio
+11605 fedos     20   0 9427668 259084  78880 S   5,6  3,2  10:59.17 chrome
+Вс дек 13 23:25:27 MSK 2020
+First five processes are :
+ 1508 fedos     20   0 2315284  62732  46304 S  11,8  0,8  17:09.22 Xorg
+ 2607 fedos     20   0 4066592 216304  63948 S  11,8  2,7  17:45.42 telegram-deskto
+27478 fedos     20   0   45496   3940   3288 R  11,8  0,0   0:00.03 top
+11605 fedos     20   0 9427808 259492  78884 S   5,9  3,2  10:59.25 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+Вс дек 13 23:25:29 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4066592 216304  63948 S  17,6  2,7  17:45.60 telegram-deskto
+27489 fedos     20   0   45496   4032   3380 R  11,8  0,1   0:00.04 top
+ 1508 fedos     20   0 2315284  62732  46304 S   5,9  0,8  17:09.29 Xorg
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:14.44 pulseaudio
+11605 fedos     20   0 9427808 259112  78888 S   5,9  3,2  10:59.33 chrome
+Вс дек 13 23:25:31 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4066592 216304  63948 S  25,0  2,7  17:45.79 telegram-deskto
+27500 fedos     20   0   45496   4092   3436 R  18,8  0,1   0:00.03 top
+ 1508 fedos     20   0 2315284  62772  46344 R   6,2  0,8  17:09.37 Xorg
+11605 fedos     20   0 9427808 259384  78896 S   6,2  3,2  10:59.41 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+Вс дек 13 23:25:33 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4074788 216308  63948 R  43,8  2,7  17:46.16 telegram-deskto
+ 1508 fedos     20   0 2315276  62816  46388 S  18,8  0,8  17:09.49 Xorg
+27516 fedos     20   0   45496   3940   3288 R  12,5  0,0   0:00.02 top
+11605 fedos     20   0 9427808 259884  78900 S   6,2  3,2  10:59.48 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+Вс дек 13 23:25:35 MSK 2020
+First five processes are :
+27286 fedos     20   0   45632   4244   3500 S  18,8  0,1   0:00.46 top
+27527 fedos     20   0   45496   4016   3364 R  12,5  0,0   0:00.02 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   6,2  0,1   3:14.56 pulseaudio
+11605 fedos     20   0 9427808 260680  78904 R   6,2  3,2  10:59.74 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+Вс дек 13 23:25:37 MSK 2020
+First five processes are :
+11605 fedos     20   0 9427808 260600  78912 S  11,8  3,2  10:59.82 chrome
+27538 fedos     20   0   45496   4156   3500 R  11,8  0,1   0:00.04 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:14.60 pulseaudio
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:25:39 MSK 2020
+First five processes are :
+27549 fedos     20   0   45496   4036   3384 R  18,8  0,1   0:00.03 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   6,2  0,1   3:14.63 pulseaudio
+11605 fedos     20   0 9427808 260836  78916 S   6,2  3,2  10:59.89 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:25:41 MSK 2020
+First five processes are :
+27561 fedos     20   0   45496   4092   3440 R  11,1  0,1   0:00.04 top
+ 2311 fedos     20   0 1128936 169124  87224 S   5,6  2,1   3:44.82 chrome
+11605 fedos     20   0 9427808 260048  78916 S   5,6  3,2  10:59.97 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:25:43 MSK 2020
+First five processes are :
+27573 fedos     20   0   45496   4088   3432 R  12,5  0,1   0:00.03 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   6,2  0,1   3:14.71 pulseaudio
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.56 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:25:45 MSK 2020
+First five processes are :
+27584 fedos     20   0   45496   4156   3500 R  11,8  0,1   0:00.03 top
+   11 root      20   0       0      0      0 I   5,9  0,0   0:17.89 rcu_sched
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:14.74 pulseaudio
+ 2607 fedos     20   0 4074788 216308  63948 S   5,9  2,7  17:46.40 telegram-deskto
+11605 fedos     20   0 9427808 260696  78928 S   5,9  3,2  11:00.12 chrome
+Вс дек 13 23:25:47 MSK 2020
+First five processes are :
+27595 fedos     20   0   45496   4156   3504 R  11,8  0,1   0:00.03 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:14.78 pulseaudio
+ 2607 fedos     20   0 4074788 216308  63948 S   5,9  2,7  17:46.42 telegram-deskto
+ 3673 fedos     20   0 1046012  10844   8704 S   5,9  0,1   1:09.54 chrome
+11605 fedos     20   0 9427808 261120  78936 S   5,9  3,2  11:00.19 chrome
+Вс дек 13 23:25:49 MSK 2020
+First five processes are :
+27607 fedos     20   0   45496   4096   3444 R  12,5  0,1   0:00.03 top
+ 3673 fedos     20   0 1046012  10844   8704 S   6,2  0,1   1:09.56 chrome
+11605 fedos     20   0 9427808 260420  78936 S   6,2  3,2  11:00.26 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:25:51 MSK 2020
+First five processes are :
+27618 fedos     20   0   45496   4052   3396 R  11,8  0,1   0:00.03 top
+ 2607 fedos     20   0 4074788 216308  63948 S   5,9  2,7  17:46.45 telegram-deskto
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:25:53 MSK 2020
+First five processes are :
+11605 fedos     20   0 9427808 261164  78948 S  11,8  3,3  11:00.41 chrome
+27629 fedos     20   0   45496   4160   3508 R  11,8  0,1   0:00.03 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:14.88 pulseaudio
+26220 fedos     20   0  655240  81732  52844 S   5,9  1,0   0:21.83 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+Вс дек 13 23:25:55 MSK 2020
+First five processes are :
+27640 fedos     20   0   45496   4096   3444 R  18,8  0,1   0:00.03 top
+11605 fedos     20   0 9427592 263020  78956 S   6,2  3,3  11:00.65 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:25:57 MSK 2020
+First five processes are :
+27651 fedos     20   0   45496   4100   3444 R  12,5  0,1   0:00.03 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   6,2  0,1   3:14.96 pulseaudio
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:25:59 MSK 2020
+First five processes are :
+27662 fedos     20   0   45496   4092   3440 R  11,8  0,1   0:00.04 top
+11605 fedos     20   0 9427592 263240  78964 S   5,9  3,3  11:00.80 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:26:01 MSK 2020
+First five processes are :
+ 1697 fedos      9 -11 2384836   9184   7444 S  12,5  0,1   3:15.04 pulseaudio
+27673 fedos     20   0   45496   3996   3340 R  12,5  0,0   0:00.02 top
+ 2607 fedos     20   0 4074788 216308  63948 S   6,2  2,7  17:46.53 telegram-deskto
+11605 fedos     20   0 9427592 263500  78968 S   6,2  3,3  11:00.87 chrome
+26220 fedos     20   0  655240  81732  52844 S   6,2  1,0   0:21.85 chrome
+Вс дек 13 23:26:03 MSK 2020
+First five processes are :
+27689 fedos     20   0   45496   4084   3428 R  18,8  0,1   0:00.03 top
+ 3673 fedos     20   0 1046012  10844   8704 S  12,5  0,1   1:09.66 chrome
+ 1697 fedos      9 -11 2384836   9184   7444 S   6,2  0,1   3:15.07 pulseaudio
+11605 fedos     20   0 9427592 263320  78976 S   6,2  3,3  11:00.96 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+Вс дек 13 23:26:05 MSK 2020
+First five processes are :
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:15.11 pulseaudio
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_par_gp
+Вс дек 13 23:26:07 MSK 2020
+First five processes are :
+27711 fedos     20   0   45496   4156   3504 R  11,8  0,1   0:00.03 top
+11605 fedos     20   0 9427592 263892  78984 S   5,9  3,3  11:01.11 chrome
+26220 fedos     20   0  655208  81864  52976 S   5,9  1,0   0:21.87 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:26:09 MSK 2020
+First five processes are :
+27722 fedos     20   0   45496   3912   3260 R  18,8  0,0   0:00.03 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   6,2  0,1   3:15.18 pulseaudio
+ 2607 fedos     20   0 4066592 216288  63948 S   6,2  2,7  17:46.59 telegram-deskto
+11605 fedos     20   0 9427592 263352  78988 S   6,2  3,3  11:01.18 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+Вс дек 13 23:26:11 MSK 2020
+First five processes are :
+27733 fedos     20   0   45496   4124   3468 R   6,2  0,1   0:00.02 top
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_par_gp
+Вс дек 13 23:26:13 MSK 2020
+First five processes are :
+27744 fedos     20   0   45496   4036   3380 R  12,5  0,1   0:00.03 top
+ 2607 fedos     20   0 4066592 216288  63948 S   6,2  2,7  17:46.63 telegram-deskto
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:26:15 MSK 2020
+First five processes are :
+27756 fedos     20   0   45496   4124   3468 R  11,1  0,1   0:00.04 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,6  0,1   3:15.30 pulseaudio
+11605 fedos     20   0 9427732 264436  79004 R   5,6  3,3  11:01.42 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:26:17 MSK 2020
+First five processes are :
+27767 fedos     20   0   45496   4028   3376 R  17,6  0,1   0:00.04 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:15.34 pulseaudio
+11605 fedos     20   0 9427732 264836  79012 S   5,9  3,3  11:01.65 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.57 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:26:19 MSK 2020
+First five processes are :
+27778 fedos     20   0   45496   4088   3436 R  11,1  0,1   0:00.04 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,6  0,1   3:15.38 pulseaudio
+11605 fedos     20   0 9427732 264868  79016 S   5,6  3,3  11:01.72 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:26:21 MSK 2020
+First five processes are :
+11605 fedos     20   0 9427732 265084  79020 S  11,8  3,3  11:01.80 chrome
+27790 fedos     20   0   45496   4096   3444 R  11,8  0,1   0:00.02 top
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:26:23 MSK 2020
+First five processes are :
+11605 fedos     20   0 9427732 264468  79024 S  11,1  3,3  11:01.87 chrome
+27806 fedos     20   0   45496   4160   3504 R  11,1  0,1   0:00.04 top
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:26:25 MSK 2020
+First five processes are :
+27817 fedos     20   0   45496   4116   3464 R  11,1  0,1   0:00.04 top
+ 2375 fedos     20   0  529408  21040  14252 S   5,6  0,3   0:12.66 chrome
+ 2607 fedos     20   0 4066592 216288  63948 S   5,6  2,7  17:46.72 telegram-deskto
+11605 fedos     20   0 9427732 264788  79028 S   5,6  3,3  11:01.94 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+Вс дек 13 23:26:27 MSK 2020
+First five processes are :
+27828 fedos     20   0   45496   3956   3300 R  11,8  0,0   0:00.04 top
+ 2607 fedos     20   0 4066592 216288  63948 S   5,9  2,7  17:46.74 telegram-deskto
+11605 fedos     20   0 9427732 265172  79036 S   5,9  3,3  11:02.01 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:26:29 MSK 2020
+First five processes are :
+ 1697 fedos      9 -11 2384836   9184   7444 S   6,2  0,1   3:15.56 pulseaudio
+ 2607 fedos     20   0 4066592 216288  63948 S   6,2  2,7  17:46.75 telegram-deskto
+27286 fedos     20   0   45632   4244   3500 S   6,2  0,1   0:00.59 top
+27844 fedos     20   0   45496   4124   3468 R   6,2  0,1   0:00.01 top
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+Вс дек 13 23:26:31 MSK 2020
+First five processes are :
+27855 fedos     20   0   45496   4076   3424 R  11,8  0,1   0:00.04 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,9  0,1   3:15.60 pulseaudio
+ 2350 fedos     20   0  561268  47008  26128 S   5,9  0,6   1:37.04 chrome
+11605 fedos     20   0 9427732 264800  79044 S   5,9  3,3  11:02.16 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+Вс дек 13 23:26:33 MSK 2020
+First five processes are :
+ 1697 fedos      9 -11 2384836   9184   7444 S  11,8  0,1   3:15.64 pulseaudio
+27866 fedos     20   0   45496   4036   3380 R  11,8  0,1   0:00.04 top
+ 2311 fedos     20   0 1128936 169232  87224 S   5,9  2,1   3:44.95 chrome
+ 2350 fedos     20   0  561780  47136  26256 S   5,9  0,6   1:37.05 chrome
+11605 fedos     20   0 9428244 265352  79116 S   5,9  3,3  11:02.24 chrome
+Вс дек 13 23:26:35 MSK 2020
+First five processes are :
+27286 fedos     20   0   45632   4244   3500 S  11,1  0,1   0:00.62 top
+27877 fedos     20   0   45496   4156   3504 R  11,1  0,1   0:00.04 top
+ 2607 fedos     20   0 4066592 216288  63948 S   5,6  2,7  17:46.80 telegram-deskto
+11605 fedos     20   0 9429032 266668  79056 S   5,6  3,3  11:02.49 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+Вс дек 13 23:26:37 MSK 2020
+First five processes are :
+27888 fedos     20   0   45496   4040   3384 R  18,8  0,1   0:00.04 top
+11605 fedos     20   0 9429032 266876  79060 S   6,2  3,3  11:02.55 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:26:39 MSK 2020
+First five processes are :
+11605 fedos     20   0 9429032 266912  79064 S  11,8  3,3  11:02.63 chrome
+27900 fedos     20   0   45496   4096   3440 R  11,8  0,1   0:00.04 top
+ 2350 fedos     20   0  561268  47008  26128 S   5,9  0,6   1:37.08 chrome
+ 2607 fedos     20   0 4066592 216288  63948 S   5,9  2,7  17:46.83 telegram-deskto
+ 3673 fedos     20   0 1046012  10844   8704 S   5,9  0,1   1:09.91 chrome
+Вс дек 13 23:26:41 MSK 2020
+First five processes are :
+27912 fedos     20   0   45496   3972   3316 R  11,1  0,0   0:00.04 top
+ 1697 fedos      9 -11 2384836   9184   7444 S   5,6  0,1   3:15.79 pulseaudio
+ 3673 fedos     20   0 1046012  10844   8704 S   5,6  0,1   1:09.92 chrome
+11605 fedos     20   0 9429032 267412  79068 S   5,6  3,3  11:02.70 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+Вс дек 13 23:26:43 MSK 2020
+First five processes are :
+27923 fedos     20   0   45496   4088   3436 R  25,0  0,1   0:00.04 top
+11605 fedos     20   0 9429032 266900  79076 S   6,2  3,3  11:02.78 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:26:45 MSK 2020
+First five processes are :
+27936 fedos     20   0   45496   3984   3328 R  16,7  0,0   0:00.05 top
+ 2607 fedos     20   0 4066592 216288  63948 S   5,6  2,7  17:46.88 telegram-deskto
+11605 fedos     20   0 9429032 267404  79080 S   5,6  3,3  11:02.86 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:26:47 MSK 2020
+First five processes are :
+27948 fedos     20   0   45496   4116   3464 R  11,1  0,1   0:00.04 top
+   11 root      20   0       0      0      0 I   5,6  0,0   0:17.94 rcu_sched
+ 7263 fedos     20   0 4876484  74528  41932 S   5,6  0,9   0:42.23 chrome
+11605 fedos     20   0 9429172 267912  79088 S   5,6  3,3  11:02.93 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.58 systemd
+Вс дек 13 23:26:50 MSK 2020
+First five processes are :
+27962 fedos     20   0   45496   3956   3300 R  11,8  0,0   0:00.03 top
+ 1697 fedos      9 -11 2646980   9184   7444 S   5,9  0,1   3:15.94 pulseaudio
+ 2350 fedos     20   0  561268  47008  26128 S   5,9  0,6   1:37.10 chrome
+ 2607 fedos     20   0 4332504 216964  64364 S   5,9  2,7  17:46.96 telegram-deskto
+ 3673 fedos     20   0 1046012  10844   8704 S   5,9  0,1   1:09.98 chrome
+Вс дек 13 23:26:52 MSK 2020
+First five processes are :
+ 1508 fedos     20   0 2315688  63144  46716 S  17,6  0,8  17:09.85 Xorg
+ 1671 fedos     20   0 4454864 276624  59024 S  11,8  3,4  17:00.35 gnome-shell
+27975 fedos     20   0   45496   4036   3380 R  11,8  0,1   0:00.03 top
+ 2607 fedos     20   0 4070360 216708  64112 S   5,9  2,7  17:46.98 telegram-deskto
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.59 systemd
+Вс дек 13 23:26:54 MSK 2020
+First five processes are :
+ 1508 fedos     20   0 2315572  63200  46772 S  11,8  0,8  17:09.99 Xorg
+ 2607 fedos     20   0 4070260 216692  64012 S  11,8  2,7  17:47.15 telegram-deskto
+27990 fedos     20   0   45496   4036   3380 R  11,8  0,1   0:00.03 top
+ 1697 fedos      9 -11 2384836   8828   7088 S   5,9  0,1   3:16.02 pulseaudio
+ 3673 fedos     20   0 1046012  10844   8704 S   5,9  0,1   1:10.00 chrome
+Вс дек 13 23:26:56 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070260 216692  64012 S  35,3  2,7  17:47.37 telegram-deskto
+ 1508 fedos     20   0 2315140  62960  46532 S  17,6  0,8  17:10.14 Xorg
+ 1671 fedos     20   0 4454768 276728  58904 S  17,6  3,4  17:00.66 gnome-shell
+11605 fedos     20   0 9429172 268256  79108 S  11,8  3,3  11:03.23 chrome
+28003 fedos     20   0   45496   4088   3436 R  11,8  0,1   0:00.03 top
+Вс дек 13 23:26:58 MSK 2020
+First five processes are :
+ 1508 fedos     20   0 2315540  63164  46736 S  29,4  0,8  17:10.39 Xorg
+ 1671 fedos     20   0 4455108 277188  59232 S  17,6  3,4  17:01.00 gnome-shell
+ 2607 fedos     20   0 4070260 216692  64012 S  17,6  2,7  17:47.59 telegram-deskto
+28014 fedos     20   0   45496   4012   3360 R  17,6  0,0   0:00.03 top
+26713 fedos     20   0  795372  38508  28468 S  11,8  0,5   0:01.73 gnome-terminal-
+Вс дек 13 23:27:00 MSK 2020
+First five processes are :
+ 1671 fedos     20   0 4455060 277332  59172 S  52,9  3,5  17:01.19 gnome-shell
+ 1508 fedos     20   0 2315604  63148  46720 R  11,8  0,8  17:10.50 Xorg
+ 2607 fedos     20   0 4332504 216832  64148 S  11,8  2,7  17:47.82 telegram-deskto
+28028 fedos     20   0   45496   3968   3316 R  11,8  0,0   0:00.03 top
+ 1697 fedos      9 -11 2646980   8828   7088 S   5,9  0,1   3:16.14 pulseaudio
+Вс дек 13 23:27:03 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070360 216796  64112 S  11,8  2,7  17:48.04 telegram-deskto
+28039 fedos     20   0   45496   3980   3328 R  11,8  0,0   0:00.03 top
+ 1508 fedos     20   0 2315528  63340  46912 S   5,9  0,8  17:10.58 Xorg
+ 3673 fedos     20   0 1046012  10844   8704 S   5,9  0,1   1:10.07 chrome
+11605 fedos     20   0 9429172 268672  79124 R   5,9  3,3  11:03.47 chrome
+Вс дек 13 23:27:06 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070360 216796  64112 S  18,8  2,7  17:48.26 telegram-deskto
+28051 fedos     20   0   45496   3996   3340 R  18,8  0,0   0:00.03 top
+11605 fedos     20   0 13,009g 270952  76500 S  12,5  3,4  11:04.02 chrome
+ 1508 fedos     20   0 2315528  63372  46944 S   6,2  0,8  17:10.68 Xorg
+ 1697 fedos      9 -11 2384836   9168   7428 S   6,2  0,1   3:16.23 pulseaudio
+Вс дек 13 23:27:08 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070360 216796  64112 R  23,5  2,7  17:48.51 telegram-deskto
+ 1508 fedos     20   0 2315528  63412  46984 S  17,6  0,8  17:10.80 Xorg
+28062 fedos     20   0   45496   4024   3372 R  17,6  0,1   0:00.04 top
+ 1156 gdm       20   0 4193484  43372  17432 R  11,8  0,5   0:17.83 gnome-shell
+11605 fedos     20   0 13,008g 271100  76524 S  11,8  3,4  11:04.17 chrome
+Вс дек 13 23:27:11 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070360 216796  64112 S  11,8  2,7  17:48.75 telegram-deskto
+28073 fedos     20   0   45496   4124   3472 R  11,8  0,1   0:00.03 top
+ 1508 fedos     20   0 2315528  63412  46984 S   5,9  0,8  17:10.89 Xorg
+ 1697 fedos      9 -11 2384836   9168   7428 S   5,9  0,1   3:16.32 pulseaudio
+11605 fedos     20   0 13,008g 270924  76784 R   5,9  3,4  11:04.28 chrome
+Вс дек 13 23:27:14 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070360 216796  64112 S  11,8  2,7  17:48.99 telegram-deskto
+28084 fedos     20   0   45496   4092   3440 R  11,8  0,1   0:00.03 top
+ 1508 fedos     20   0 2316032  63416  46988 S   5,9  0,8  17:10.98 Xorg
+ 2350 fedos     20   0  561780  47008  26128 S   5,9  0,6   1:37.26 chrome
+11605 fedos     20   0 13,008g 274948  76520 S   5,9  3,4  11:04.45 chrome
+Вс дек 13 23:27:17 MSK 2020
+First five processes are :
+ 1671 fedos     20   0 4455032 277320  59156 R  25,0  3,5  17:01.47 gnome-shell
+ 2311 fedos     20   0 1077628 168952  86920 S   6,2  2,1   3:45.14 chrome
+ 2350 fedos     20   0  561780  47268  26388 S   6,2  0,6   1:37.28 chrome
+11605 fedos     20   0 13,008g 274648  76800 S   6,2  3,4  11:04.96 chrome
+28095 fedos     20   0   45496   4092   3440 R   6,2  0,1   0:00.01 top
+Вс дек 13 23:27:19 MSK 2020
+First five processes are :
+28106 fedos     20   0   45496   3956   3300 R  11,8  0,0   0:00.03 top
+ 2607 fedos     20   0 4070260 216696  64012 S   5,9  2,7  17:49.23 telegram-deskto
+11605 fedos     20   0 13,008g 274796  77044 S   5,9  3,4  11:05.08 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.62 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:27:22 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070260 216696  64012 S  16,7  2,7  17:49.49 telegram-deskto
+ 1508 fedos     20   0 2315268  62816  46388 S  11,1  0,8  17:11.22 Xorg
+28119 fedos     20   0   45496   3968   3316 R  11,1  0,0   0:00.04 top
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.62 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:27:25 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070260 216696  64012 S  23,5  2,7  17:49.73 telegram-deskto
+ 1508 fedos     20   0 2315268  62852  46424 S  11,8  0,8  17:11.32 Xorg
+11605 fedos     20   0 13,007g 278528  76548 S  11,8  3,5  11:05.72 chrome
+28130 fedos     20   0   45496   4056   3400 R   5,9  0,1   0:00.03 top
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.62 systemd
+Вс дек 13 23:27:28 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070260 216696  64012 S  18,8  2,7  17:49.95 telegram-deskto
+28146 fedos     20   0   45496   4024   3368 R  12,5  0,1   0:00.02 top
+ 1508 fedos     20   0 2315268  62888  46460 S   6,2  0,8  17:11.42 Xorg
+ 1697 fedos      9 -11 2384836   9168   7428 S   6,2  0,1   3:16.61 pulseaudio
+ 2350 fedos     20   0  561268  47008  26128 S   6,2  0,6   1:37.35 chrome
+Вс дек 13 23:27:30 MSK 2020
+First five processes are :
+ 1671 fedos     20   0 4454820 277216  59004 R  43,8  3,4  17:01.68 gnome-shell
+ 2607 fedos     20   0 4070260 216696  64012 S  31,2  2,7  17:50.14 telegram-deskto
+ 1508 fedos     20   0 2315268  62932  46504 S  12,5  0,8  17:11.49 Xorg
+11605 fedos     20   0 13,007g 277368  76560 S   6,2  3,5  11:05.92 chrome
+28157 fedos     20   0   45496   4060   3404 R   6,2  0,1   0:00.02 top
+Вс дек 13 23:27:33 MSK 2020
+First five processes are :
+28168 fedos     20   0   45496   4168   3512 R  11,8  0,1   0:00.03 top
+ 1345 gdm       20   0 1155904   4008   2368 S   5,9  0,0   0:00.57 gsd-power
+ 1671 fedos     20   0 4454844 276676  58436 S   5,9  3,4  17:01.70 gnome-shell
+ 1697 fedos      9 -11 2384836   9144   7404 S   5,9  0,1   3:16.69 pulseaudio
+ 1795 fedos     20   0  794156   8572   6020 S   5,9  0,1   0:01.11 gsd-power
+Вс дек 13 23:27:36 MSK 2020
+First five processes are :
+28191 fedos     20   0   45496   4032   3376 R  17,6  0,1   0:00.04 top
+ 2375 fedos     20   0  529408  19196  12408 S   5,9  0,2   0:12.75 chrome
+ 3673 fedos     20   0 1309188   9616   7472 S   5,9  0,1   1:10.29 chrome
+11605 fedos     20   0 9437488 260564  74132 S   5,9  3,2  11:06.23 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.63 systemd
+Вс дек 13 23:27:39 MSK 2020
+First five processes are :
+28203 fedos     20   0   45496   4160   3504 R  12,5  0,1   0:00.03 top
+11605 fedos     20   0 9436012 258412  73808 S   6,2  3,2  11:06.32 chrome
+    1 root      20   0  225776   6024   3992 S   0,0  0,1   0:34.63 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:27:41 MSK 2020
+First five processes are :
+28215 fedos     20   0   45496   4104   3448 R  12,5  0,1   0:00.03 top
+11605 fedos     20   0 9436012 257124  72268 S   6,2  3,2  11:06.40 chrome
+    1 root      20   0  225776   5556   3524 S   0,0  0,1   0:34.63 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+Вс дек 13 23:27:44 MSK 2020
+First five processes are :
+ 1697 fedos      9 -11 2646980   7808   6068 S   5,9  0,1   3:16.91 pulseaudio
+ 2311 fedos     20   0 1077636 127060  45028 S   5,9  1,6   3:45.39 chrome
+11605 fedos     20   0 9436012 241588  57084 S   5,9  3,0  11:06.49 chrome
+28226 fedos     20   0   45496   4100   3448 R   5,9  0,1   0:00.03 top
+    1 root      20   0  225776   5328   3296 S   0,0  0,1   0:34.63 systemd
+Вс дек 13 23:27:47 MSK 2020
+First five processes are :
+28251 fedos     20   0   45496   4004   3348 R  11,8  0,0   0:00.03 top
+ 1697 fedos      9 -11 2646980   6516   4776 S   5,9  0,1   3:16.96 pulseaudio
+ 3673 fedos     20   0 1309188   4520   2376 S   5,9  0,1   1:10.40 chrome
+11605 fedos     20   0 9436012 207368  22624 S   5,9  2,6  11:06.57 chrome
+    1 root      20   0  225776   3988   1956 S   0,0  0,0   0:34.63 systemd
+Вс дек 13 23:27:50 MSK 2020
+First five processes are :
+28262 fedos     20   0   45496   4072   3416 R  12,5  0,1   0:00.03 top
+ 2311 fedos     20   0 1082764 118660  42548 S   6,2  1,5   3:45.51 chrome
+ 2607 fedos     20   0 4070260 159976  13300 S   6,2  2,0  17:50.68 telegram-deskto
+11605 fedos     20   0 9436012 209216  24668 S   6,2  2,6  11:06.66 chrome
+    1 root      20   0  225776   3460   1956 S   0,0  0,0   0:34.63 systemd
+Вс дек 13 23:27:53 MSK 2020
+First five processes are :
+11605 fedos     20   0 9436516 160568  23672 S  12,5  2,0  11:06.78 chrome
+28274 fedos     20   0   45496   3976   3324 R  12,5  0,0   0:00.03 top
+ 2350 fedos     20   0  561780  29148  11196 S   6,2  0,4   1:37.49 chrome
+ 2607 fedos     20   0 4070260 155008  11024 S   6,2  1,9  17:50.78 telegram-deskto
+    1 root      20   0  225776   3308   1940 S   0,0  0,0   0:34.63 systemd
+Вс дек 13 23:27:55 MSK 2020
+First five processes are :
+ 1697 fedos      9 -11 2384836   5328   3752 S   6,2  0,1   3:17.10 pulseaudio
+11605 fedos     20   0 9436516 117492  18408 S   6,2  1,5  11:06.89 chrome
+28289 fedos     20   0   45496   4176   3524 R   6,2  0,1   0:00.02 top
+    1 root      20   0  225776   3308   1940 S   0,0  0,0   0:34.63 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:27:59 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070260 150928  10512 S  94,1  1,9  17:51.76 telegram-deskto
+11605 fedos     20   0 9436004 139168  26404 D  64,7  1,7  11:07.21 chrome
+  130 root      20   0       0      0      0 S  23,5  0,0   5:07.04 kswapd0
+28300 fedos     20   0   45496   3868   3216 R  11,8  0,0   0:00.03 top
+    1 root      20   0  225776   1368      0 S   0,0  0,0   0:34.64 systemd
+Вс дек 13 23:28:02 MSK 2020
+First five processes are :
+  130 root      20   0       0      0      0 S  50,0  0,0   5:07.77 kswapd0
+ 2375 fedos     20   0  529408  13636   7552 S  31,2  0,2   0:12.86 chrome
+ 2311 fedos     20   0 1077644  84316  23028 S  18,8  1,0   3:45.66 chrome
+28315 fedos     20   0   45496   4100   3444 R  18,8  0,1   0:00.04 top
+ 2350 fedos     20   0  561268  18676   2940 S   6,2  0,2   1:37.56 chrome
+Вс дек 13 23:28:05 MSK 2020
+First five processes are :
+ 2607 fedos     20   0 4070260 150584  10512 S 100,0  1,9  17:54.73 telegram-deskto
+  130 root      20   0       0      0      0 S  12,5  0,0   5:08.67 kswapd0
+28327 fedos     20   0   45496   3672   3020 R   6,2  0,0   0:00.02 top
+    1 root      20   0  225776   1812    476 S   0,0  0,0   0:34.64 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.01 kthreadd
+Вс дек 13 23:29:27 MSK 2020
+First five processes are :
+  130 root      20   0       0      0      0 R  77,3  0,0   6:29.32 kswapd0
+ 2607 fedos     20   0 4070260 139432      0 D  54,5  1,7  18:22.31 telegram-deskto
+ 1035 root      20   0 1907856   4780      0 S  24,2  0,1   1:05.63 snapd
+ 1156 gdm       20   0 4193484  24900   2024 R   6,1  0,3   0:18.56 gnome-shell
+ 1697 fedos      9 -11 2384836   2276    756 S   4,5  0,0   3:18.33 pulseaudio

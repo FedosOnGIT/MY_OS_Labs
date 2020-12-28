@@ -1,0 +1,1 @@
+robocopy /Z /MIN:2097152 "C:\Windows" "\\%COMPUTERNAME%\temp"

@@ -1,0 +1,2 @@
+Virtual Memory: Available: 3 219 MB
+Virtual Memory: In Use:    11 097 MB

@@ -1,0 +1,1 @@
+comp "C:\Windows" "\\%COMPUTERNAME%\temp" > "C:\LAB6\task 2\information\compare.txt"

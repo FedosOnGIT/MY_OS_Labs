@@ -1,0 +1,1 @@
+schtasks /create /sc minute /mo 2 /tn "run task 2.2" /tr "C:\LAB6\task 2\scripts\2.2.cmd"

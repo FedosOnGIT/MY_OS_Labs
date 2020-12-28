@@ -5,7 +5,6 @@ then
 	mkdir restore
 fi
 path=$(cat ~/backup-time | awk '{ print $1 }')
-echo $path
 cd ~/Backup-$path
 ls
 for current in $(ls -1)

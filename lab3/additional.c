@@ -22,8 +22,8 @@ int main() {
 	for (int i = 1; i <= number; i++) {
 		scanf("%d", &(array[i]));	
 	}
-	int* stack = (int*) malloc(sizeof(int) * (number + 2)); 
-	pid_t pid = clone(sum, stack, CLONE_VM | SIGCHLD, array);
+	void* stack = malloc(1024); 
+	pid_t pid = clone(sum, stack + 1024, CLONE_VM | SIGCHLD, array);
 	int signal;
 	waitpid(pid, &signal, 1);
 	printf("%d\n", array[number + 1]);
